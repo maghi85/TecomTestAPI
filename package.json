@@ -2,7 +2,7 @@
   "name": "TestApi",
   "version": "0.0.1",
   "dependencies": {
-    "interfake": "^1.3.0"
+    "interfake": "1.3.0"
   },
   "engines": {
     "node": "0.8.x",
